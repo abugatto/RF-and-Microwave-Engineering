@@ -1,0 +1,348 @@
+Run 1:  Fri Apr 27 17:24:52 2018.  SL287748.103150.
+        Em version 15.53-Lite (32-bit Windows) on ANTHONYBUGA3AE4 local.
+
+  Project:  \\Mac\Home\Desktop\School\Spring 2018\Microwave Engineering\Labs\Coupled BPF\bpf.son.
+
+    Frequency:  1.5 GHZ
+      Subsectioning at 2.5 GHz with Eeff of 1.6.
+      Subsectioning time:  0.125 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 27 mm length, 189 subsections, 4 MB.
+        Left SOC Magnetic Wall: 54 mm length, 182 subsections, 4 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 27 mm length, 189 subsections, 4 MB.
+        Right SOC Magnetic Wall: 54 mm length, 182 subsections, 4 MB.
+      Em license feature:  emlite.
+      Circuit requires 1739 subsections and 24 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,739
+
+      Required memory by type:
+        System matrix:            23 MB
+        Elemental subsections:
+          Primary structure:      2 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  2 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    35 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 2 core(s) available.
+      Waveguide mode time:  0.110 seconds.
+      Fourier transform time:  0.328 seconds.
+      Coupling time:  3 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  3 seconds.
+      Matrix solve time:  2 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.203 seconds.
+        SOC Magnetic Wall Std: 0.187 seconds.
+        Total:                 0.390 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 0.188 seconds.
+        SOC Magnetic Wall Std: 0.172 seconds.
+        Total:                 0.360 seconds.
+      Total time per frequency:  6 seconds.
+
+    Frequency:  2.5 GHZ
+      ABS time:  0.204 seconds.
+
+    Frequency:  1.965 GHZ
+      ABS time:  0.220 seconds.
+
+    Frequency:  1.855 GHZ
+      ABS time:  0.235 seconds.
+
+    Frequency:  2.265 GHZ
+      ABS time:  0.267 seconds.
+
+    Frequency:  2.02 GHZ
+      ABS time:  0.330 seconds.
+
+    Frequency:  2.435 GHZ
+      ABS time:  0.390 seconds.
+
+    Frequency:  2.34 GHZ
+      ABS time:  0.453 seconds.
+
+    Frequency:  2.29 GHZ
+      ABS time:  0.548 seconds.
+
+    Frequency:  2.475 GHZ
+      ABS time:  0.656 seconds.
+
+    Frequency:  2.42 GHZ
+      ABS time:  0.751 seconds.
+
+    Frequency:  2.445 GHZ
+      ABS time:  0.907 seconds.
+
+    Frequency:  2.405 GHZ
+      ABS time:  1 second.
+
+    Frequency:  2.46 GHZ
+      ABS time:  1 second.
+
+    Frequency:  2.365 GHZ
+      ABS time:  1 second.
+
+    Frequency:  2.415 GHZ
+      ABS time:  1 second.
+
+    Frequency:  2.375 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.39 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.315 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.44 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.455 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  1.935 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.355 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.49 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.47 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.205 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.235 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.215 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.35 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.45 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.465 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.335 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  1.93 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.495 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.425 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.43 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.915 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  2.485 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  2.285 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  2.48 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  2.17 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  2.325 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  2.3 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.665 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.545 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.255 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.795 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.85 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  2.225 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.86 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.92 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.705 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.945 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.94 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.615 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  1.585 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.605 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.61 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.645 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.675 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.6 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.58 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.57 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.885 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.565 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.515 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  2.345 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.56 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.555 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.685 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  2.24 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.71 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  2.275 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  1.625 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.195 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.54 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.505 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.87 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.865 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.51 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.53 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.525 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.535 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.395 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.11 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.145 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.18 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.32 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.95 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  2.155 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  1.635 GHZ
+      ABS time:  5 seconds.
+
+    Post-Analysis:
+      Total time for 91 frequencies:  15 minutes 6 seconds.
+
+Analysis completed Fri Apr 27 17:39:58 2018.
+
+
+Run 2:  Fri Apr 27 21:12:46 2018.  SL287748.103150.
+        Em version 15.53-Lite (32-bit Windows) on ANTHONYBUGA3AE4 local.
+
+  Project:  \\Mac\Home\Desktop\School\Spring 2018\Microwave Engineering\Labs\Coupled BPF\bpf.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Fri Apr 27 21:12:46 2018.
+
+
+Run 2:  Thu Jul 18 15:46:10 2019.  SL287748.103150.
+        Em version 15.53-Lite (32-bit Windows) on ANTHONYBUGA3AE4 local.
+
+  Project:  \\Mac\Home\Desktop\School\Spring 2018\Microwave Engineering\Labs\Coupled BPF\bpf.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Thu Jul 18 15:46:14 2019.

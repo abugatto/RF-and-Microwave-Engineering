@@ -1,0 +1,149 @@
+Run 1:  Fri Apr 20 22:56:17 2018.  SL287748.103150.
+        Em version 15.53-Lite (32-bit Windows) on ANTHONYBUGA3AE4 local.
+
+  Project:  \\Mac\Home\Desktop\School\Spring 2018\Microwave Engineering\Labs\Wilkinson\wilkinson.son.
+
+    Frequency:  1.2 GHZ
+      Subsectioning at 3.6 GHz with Eeff of 2.7.
+      Subsectioning time:  0.015 seconds.
+      De-embedding information for top box wall port(s):
+        Top SOC Electric Wall: 15 mm length, 208 subsections, 2 MB.
+        Top SOC Magnetic Wall: 30 mm length, 198 subsections, 2 MB.
+      De-embedding information for bottom box wall port(s):
+        Bottom SOC Electric Wall: 15 mm length, 104 subsections, 2 MB.
+        Bottom SOC Magnetic Wall: 30 mm length, 99 subsections, 2 MB.
+      De-embedding information for component R1:
+        Main Std: X=30 mm Y=30 mm box size, 293 subsections, 2 MB.
+      Em license feature:  emlite.
+      Circuit requires 1255 subsections and 13 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,255
+
+      Required memory by type:
+        System matrix:            12 MB
+        Elemental subsections:
+          Primary structure:      0 MB
+          Top standard:           0 MB
+          Bottom standard:        0 MB
+          CciR1 standard:         0 MB
+        Fourier transform:        0 MB
+        Waveguide mode:           0 MB
+        Adaptive band synthesis:  2 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    16 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 2 core(s) available.
+      Waveguide mode time:  0.016 seconds.
+      Fourier transform time:  0.029 seconds.
+      Coupling time:  0.174 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  0.219 seconds.
+      Matrix solve time:  1 second.
+      De-embedding time for top box wall:
+        SOC Electric Wall Std: 0.062 seconds.
+        SOC Magnetic Wall Std: 0.047 seconds.
+        Total:                 0.109 seconds.
+      De-embedding time for bottom box wall:
+        SOC Electric Wall Std: 0.031 seconds.
+        SOC Magnetic Wall Std: 0.032 seconds.
+        Total:                 0.063 seconds.
+      De-embedding time for component R1:
+        Total: 0.203 seconds.
+      Frequency completed Fri Apr 20 22:56:18 2018.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. Matrix Order (line #1: S11 S12 S13 ...).
+        1.20000000 0.261376 90.297 0.675380 -78.15 0.674761 -78.41
+                   0.675380 -78.15 0.120932 35.483 0.289160 -89.20
+                   0.674761 -78.41 0.289160 -89.20 0.116006 32.461
+        !< P1 F=1.2 Eeff=(3.30653431 -0.0593976) Z0=(52.3656884 0.46996275) R=6.94505042 C=0.28252578 
+        !< P2 F=1.2 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< P3 F=1.2 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "mp" code.
+      Total time per frequency:  1 second.
+
+    Frequency:  3.6 GHZ
+      Frequency completed Fri Apr 20 22:56:20 2018.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. Matrix Order (line #1: S11 S12 S13 ...).
+        3.60000000 0.201860 91.394 0.665854 116.96 0.665681 115.29
+                   0.665854 116.96 0.042755 155.55 0.247502 -37.49
+                   0.665681 115.29 0.247502 -37.49 0.079701 146.98
+        !< P1 F=3.6 Eeff=(3.37670488 -0.0626099) Z0=(52.4688559 0.4660945) R=2.21432417 C=0.27705014 
+        !< P2 F=3.6 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< P3 F=3.6 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "mp" code.
+      ABS time:  0.204 seconds.
+
+    Frequency:  2.07 GHZ
+      Frequency completed Fri Apr 20 22:56:22 2018.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. Matrix Order (line #1: S11 S12 S13 ...).
+        2.07000000 0.109309 28.400 0.687269 -137.1 0.687399 -137.6
+                   0.687269 -137.1 0.032234 -13.87 0.102438 -132.5
+                   0.687399 -137.6 0.102438 -132.5 0.024840 -41.14
+        !< P1 F=2.07 Eeff=(3.32602424 -0.0603533) Z0=(52.3134796 0.47203743) R=3.96423068 C=0.28050545 
+        !< P2 F=2.07 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< P3 F=2.07 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "mp" code.
+      ABS time:  0.219 seconds.
+
+    Frequency:  2.98 GHZ
+      Frequency completed Fri Apr 20 22:56:24 2018.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. Matrix Order (line #1: S11 S12 S13 ...).
+        2.98000000 0.091728 132.02 0.680937 159.72 0.681963 158.73
+                   0.680937 159.72 0.003136 67.615 0.097099 -1.984
+                   0.681963 158.73 0.097099 -1.984 0.025082 162.63
+        !< P1 F=2.98 Eeff=(3.35458356 -0.06167) Z0=(52.3389264 0.47104832) R=2.70278482 C=0.27812997 
+        !< P2 F=2.98 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< P3 F=2.98 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "mp" code.
+      ABS time:  0.250 seconds.
+
+    Frequency:  1.59 GHZ
+      Frequency completed Fri Apr 20 22:56:26 2018.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. Matrix Order (line #1: S11 S12 S13 ...).
+        1.59000000 0.202393 61.839 0.681664 -104.3 0.681299 -104.6
+                   0.681664 -104.3 0.073964 8.0612 0.202294 -108.4
+                   0.681299 -104.6 0.202294 -108.4 0.067813 0.5911
+        !< P1 F=1.59 Eeff=(3.31414744 -0.0597759) Z0=(52.3393905 0.47101927) R=5.20879675 C=0.28170577 
+        !< P2 F=1.59 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< P3 F=1.59 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "mp" code.
+      ABS time:  0.266 seconds.
+
+    Frequency:  3.35 GHZ
+      Frequency completed Fri Apr 20 22:56:28 2018.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. Matrix Order (line #1: S11 S12 S13 ...).
+        3.35000000 0.162391 108.15 0.672255 134.11 0.673009 132.76
+                   0.672255 134.11 0.018216 164.84 0.184492 -22.82
+                   0.673009 132.76 0.184492 -22.82 0.049918 156.05
+        !< P1 F=3.35 Eeff=(3.36767471 -0.0622353) Z0=(52.4016395 0.46867137) R=2.38854951 C=0.27738096 
+        !< P2 F=3.35 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< P3 F=3.35 Eeff=(undefined: mp) Z0=(undefined: mp) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "mp" code.
+      ABS time:  0.313 seconds.
+
+    Post-Analysis:
+      Total time for 6 frequencies:  11 seconds.
+      Errors detected: 0    Warnings detected: 0.
+
+Analysis completed Fri Apr 20 22:56:29 2018.
+
+
+Run 2:  Fri Apr 27 21:14:42 2018.  SL287748.103150.
+        Em version 15.53-Lite (32-bit Windows) on ANTHONYBUGA3AE4 local.
+
+  Project:  \\Mac\Home\Desktop\School\Spring 2018\Microwave Engineering\Labs\Wilkinson\wilkinson.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+      Errors detected: 0    Warnings detected: 0.
+
+Analysis completed Fri Apr 27 21:14:42 2018.

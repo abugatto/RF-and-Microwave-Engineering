@@ -1,0 +1,37 @@
+Run 1:  Fri Apr 27 13:53:10 2018.  SL287748.103150.
+        Em version 15.53-Lite (32-bit Windows) on ANTHONYBUGA3AE4 local.
+
+  Project:  \\Mac\Home\Desktop\School\Spring 2018\Microwave Engineering\Labs\Insertion Loss LPF\lpf.son.
+
+    Frequency:  6 GHZ
+
+      Sonnet Warning EG2660:
+      Adaptive band synthesis.
+      Primary structure has potential box resonances.
+      ABS may require large number of discrete frequencies for convergence.
+      See the chapter on package resonances in the Sonnet User's Guide.
+      Date: Fri Apr 27 13:53:10 2018
+
+
+    Frequency:  9.38 GHZ
+
+      Sonnet Warning EG2610:
+      Potential de-embedding problem.
+      Unable to determine Z0 and Eeff for
+      left box wall standard at 9.38 GHz.
+      De-embedded s-parameters may not be valid.
+      Date: Fri Apr 27 13:58:19 2018
+
+
+      Sonnet Warning EG2610:
+      Potential de-embedding problem.
+      Unable to determine Z0 and Eeff for
+      right box wall standard at 9.38 GHz.
+      De-embedded s-parameters may not be valid.
+      Date: Fri Apr 27 13:58:19 2018
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 3.
+
+Analysis completed Fri Apr 27 14:23:37 2018.

@@ -1,0 +1,530 @@
+Run 1:  Fri Apr 27 13:53:10 2018.  SL287748.103150.
+        Em version 15.53-Lite (32-bit Windows) on ANTHONYBUGA3AE4 local.
+
+  Project:  \\Mac\Home\Desktop\School\Spring 2018\Microwave Engineering\Labs\Insertion Loss LPF\lpf.son.
+
+    Frequency:  6 GHZ
+      Subsectioning at 10 GHz with Eeff of 1.6.
+      Subsectioning time:  0.032 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 6.8 mm length, 200 subsections, 3 MB.
+        Left SOC Magnetic Wall: 13.6 mm length, 190 subsections, 3 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 6.8 mm length, 200 subsections, 3 MB.
+        Right SOC Magnetic Wall: 13.6 mm length, 190 subsections, 3 MB.
+      Em license feature:  emlite.
+      Circuit requires 1778 subsections and 25 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,778
+
+      Required memory by type:
+        System matrix:            24 MB
+        Elemental subsections:
+          Primary structure:      0 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        1 MB
+        Waveguide mode:           1 MB
+        Adaptive band synthesis:  3 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    31 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 2 core(s) available.
+      Waveguide mode time:  0.062 seconds.
+      Fourier transform time:  0.049 seconds.
+      Coupling time:  0.670 seconds.
+      Loss time:  0 seconds.
+      Matrix fill time:  0.781 seconds.
+      Matrix solve time:  1 second.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.094 seconds.
+        SOC Magnetic Wall Std: 0.093 seconds.
+        Total:                 0.187 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 0.094 seconds.
+        SOC Magnetic Wall Std: 0.095 seconds.
+        Total:                 0.189 seconds.
+      Total time per frequency:  2 seconds.
+
+    Frequency:  10 GHZ
+      ABS time:  0.328 seconds.
+
+    Frequency:  8.62 GHZ
+      ABS time:  0.344 seconds.
+
+    Frequency:  7.52 GHZ
+      ABS time:  0.374 seconds.
+
+    Frequency:  8.94 GHZ
+      ABS time:  0.438 seconds.
+
+    Frequency:  8.68 GHZ
+      ABS time:  0.515 seconds.
+
+    Frequency:  8.6 GHZ
+      ABS time:  0.610 seconds.
+
+    Frequency:  8.64 GHZ
+      ABS time:  0.689 seconds.
+
+    Frequency:  8.5 GHZ
+      ABS time:  0.828 seconds.
+
+    Frequency:  8.56 GHZ
+      ABS time:  0.922 seconds.
+
+    Frequency:  8.66 GHZ
+      ABS time:  1 second.
+
+    Frequency:  8.38 GHZ
+      ABS time:  1 second.
+
+    Frequency:  8.8 GHZ
+      ABS time:  1 second.
+
+    Frequency:  8.52 GHZ
+      ABS time:  1 second.
+
+    Frequency:  8.28 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  8.34 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  8.74 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  8.78 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  8.54 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  8.72 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  8.82 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  8.42 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  8.88 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  8.26 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  8.9 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  8.84 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  9.06 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  9.18 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  9.42 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  9.28 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  9.08 GHZ
+      ABS time:  3 seconds.
+
+    Frequency:  9.66 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.62 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.64 GHZ
+      ABS time:  6 seconds.
+
+    Frequency:  9.54 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  9.04 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  8.76 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.44 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  8.96 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.32 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.36 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.34 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.46 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.26 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  9.24 GHZ
+      ABS time:  4 seconds.
+
+    Frequency:  8.46 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  8.4 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  8.7 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  9.48 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  9.12 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  9.38 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  9.4 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  9.52 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  9.6 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  9.5 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  8.3 GHZ
+      ABS time:  5 seconds.
+
+    Frequency:  8.98 GHZ
+      ABS time:  6 seconds.
+
+    Frequency:  8.92 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  9.02 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  9.22 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  8.58 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  9.14 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  9.2 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  8.36 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  8.44 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  8.48 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.56 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.1 GHZ
+      ABS time:  6 seconds.
+
+    Frequency:  9.58 GHZ
+      ABS time:  6 seconds.
+
+    Frequency:  8.22 GHZ
+      ABS time:  6 seconds.
+
+    Frequency:  8.16 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  8.14 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  8.18 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  8.12 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  8 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  7.98 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  8.2 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  8.08 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  8.04 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  8.02 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  8.86 GHZ
+      ABS time:  7 seconds.
+
+    Frequency:  8.24 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  7.94 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  9.16 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  8.1 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  7.96 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  7.88 GHZ
+      ABS time:  13 seconds.
+
+    Frequency:  7.92 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  9.3 GHZ
+      ABS time:  13 seconds.
+
+    Frequency:  8.32 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  8.06 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.8 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.9 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.78 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.84 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.68 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.7 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.72 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.82 GHZ
+      ABS time:  8 seconds.
+
+    Frequency:  7.66 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  7.76 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  7.74 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.7 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.74 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.86 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.82 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.88 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  9.78 GHZ
+      ABS time:  14 seconds.
+
+    Frequency:  9.76 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.84 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.72 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  7.62 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  7.64 GHZ
+      ABS time:  9 seconds.
+
+    Frequency:  9.9 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  9.92 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  7.6 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  7.58 GHZ
+      ABS time:  14 seconds.
+
+    Frequency:  7.86 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  9.68 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  7.56 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  7.54 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  9.8 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  7.5 GHZ
+      ABS time:  16 seconds.
+
+    Frequency:  7.48 GHZ
+      ABS time:  17 seconds.
+
+    Frequency:  9.98 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  9.94 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  9.96 GHZ
+      ABS time:  10 seconds.
+
+    Frequency:  6.8 GHZ
+      ABS time:  15 seconds.
+
+    Frequency:  7.26 GHZ
+      ABS time:  17 seconds.
+
+    Frequency:  7.42 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  7.4 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  7.44 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  7.46 GHZ
+      ABS time:  18 seconds.
+
+    Frequency:  7.38 GHZ
+      ABS time:  19 seconds.
+
+    Frequency:  6.46 GHZ
+      ABS time:  13 seconds.
+
+    Frequency:  7.02 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  7 GHZ
+      ABS time:  16 seconds.
+
+    Frequency:  7.32 GHZ
+      ABS time:  19 seconds.
+
+    Frequency:  7.3 GHZ
+      ABS time:  11 seconds.
+
+    Frequency:  7.16 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  7.34 GHZ
+      ABS time:  16 seconds.
+
+    Frequency:  7.2 GHZ
+      ABS time:  20 seconds.
+
+    Frequency:  7.28 GHZ
+      ABS time:  20 seconds.
+
+    Frequency:  6.98 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  7.06 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  7.14 GHZ
+      ABS time:  18 seconds.
+
+    Frequency:  7.12 GHZ
+      ABS time:  14 seconds.
+
+    Frequency:  7.04 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  7.18 GHZ
+      ABS time:  12 seconds.
+
+    Frequency:  7.22 GHZ
+      ABS time:  17 seconds.
+
+    Frequency:  7.36 GHZ
+      ABS time:  19 seconds.
+
+    Frequency:  6.9 GHZ
+      ABS time:  13 seconds.
+
+    Frequency:  7.24 GHZ
+      ABS time:  13 seconds.
+
+    Frequency:  6.96 GHZ
+      ABS time:  22 seconds.
+
+    Frequency:  7.08 GHZ
+      ABS time:  17 seconds.
+
+    Frequency:  6.94 GHZ
+      ABS time:  13 seconds.
+
+    Frequency:  7.1 GHZ
+      ABS time:  13 seconds.
+
+    Frequency:  6.92 GHZ
+      ABS time:  13 seconds.
+
+    Post-Analysis:
+      Total time for 159 frequencies:  30 minutes 27 seconds.
+
+Analysis completed Fri Apr 27 14:23:37 2018.
